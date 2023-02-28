@@ -1,0 +1,11 @@
+PolicyNumber;Sex;AgeEntry;AgeEnd;AgeNow;SumInsured;SmokerStatus
+1;male;18;65;19;600?000;S
+2;female;25;65;58;100?000;NS
+3;male;35;65;37;800?000;S
+4;female;45;65;54;300?000;NS
+5;male;30;65;62;400?000;NS
+6;male;23;65;54;500?000;S
+7;male;20;65;42;700?000;S
+8;female;37;65;63;600?000;S
+9;male;40;65;54;400?000;NS
+10;female;42;65;46;200?000;NS
